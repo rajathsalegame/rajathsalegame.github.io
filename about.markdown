@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I guess I'm supposed to talk about myself here. Or is it supposed to be about the site? Not sure. Anyways, I'm a current undergraduate at Harvard pursuing an Bachelors degree (A.B.) in Physics with a Secondary in Computer Science and a Masters degree (A.M.) in Applied Mathematics. In terms of my interests, I am currently exploring phase space, and have unfortunately yet to reach a stable equilibrium. Hopefully, we'll get there though!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
