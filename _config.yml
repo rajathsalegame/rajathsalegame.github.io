@@ -18,10 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: [Insert vaguely creative title here]
 email: rajathsalegame@college.harvard.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is iteration 0.1 of a perosnal website that I made because I was bored.
+  This is iteration 0.1 of a personal website that I made because I was bored.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: RSalegame
